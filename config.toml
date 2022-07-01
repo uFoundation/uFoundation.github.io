@@ -1,6 +1,25 @@
-baseURL = 'https://uFoundation.github.io/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Utility Foundation'
 theme = "codex"
 [params]
-github = "https://github.com/uFoundation/uFoundation.github.io"
+  github = "https://github.com/uFoundation"
+  telegram = "https://t.me/uFoundation"
+  twitter = "https://twitter.com/UF_Anonce"
+  linkedin = "https://www.linkedin.com/company/uFoundation-team/"
+  mastodon = "https://mastodon.social/@uFoundation"
+  medium = "https://medium.com/@uFoundation"
+  # Follow the Hugo date/time format reference here:
+  # https://gohugo.io/functions/format/#gos-layout-string
+  dateFormat = "2 Jan 2006"
+
+  # Titles for your icons (shown as tooltips), and also their display order.
+  iconOrder = [
+    "GitHub",
+    "Telegram",
+    "Twitter",
+    "Linkedin",
+    "Mastodon",
+    "Medium",
+  ]
+
