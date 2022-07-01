@@ -1,6 +1,6 @@
-baseURL = 'https://utility-foundation.github.io/'
+baseURL = 'https://uFoundation.github.io/'
 languageCode = 'en-us'
 title = 'Utility Foundation'
 theme = "codex"
 [params]
-github = "https://github.com/Utility-Foundation/Utility-Foundation.github.io"
+github = "https://github.com/uFoundation/uFoundation.github.io"
